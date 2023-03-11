@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490173185810",
+    "project_id": "eraa-auth",
+    "storage_bucket": "eraa-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490173185810:android:a95b9edcfd29ef15e9bdcb",
+        "android_client_info": {
+          "package_name": "com.example.todo_shared"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490173185810-e4aqnpgehl0fohecma8i7e71upmigpaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHjz0MKtzEZrnr4YpSc_WE_KlWiQdvOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490173185810-e4aqnpgehl0fohecma8i7e71upmigpaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
